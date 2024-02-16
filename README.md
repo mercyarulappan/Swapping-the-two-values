@@ -1,2 +1,5 @@
 # Swapping-the-two-values
-Aim:
+#Aim:
+# Algorithm:
+#Program:
+#Result:
